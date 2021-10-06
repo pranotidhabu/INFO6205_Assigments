@@ -24,3 +24,4 @@ hs_err_pid*
 /.idea/
 /src/main/main.iml
 /src/test/test.iml
+*.DS_Store
