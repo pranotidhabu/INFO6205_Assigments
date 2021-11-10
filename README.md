@@ -8,3 +8,10 @@ Assignment 3
  Path to report:
    ./Assignment3
 
+Assignment 5 - Parallel Sort
+- Modified files
+  1. ParSort.java
+  2. Main.java
+     Path to report:
+     ./Assignment5-ParallelSort
+
